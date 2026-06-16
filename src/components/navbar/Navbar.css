@@ -1,0 +1,27 @@
+
+
+.user-png{
+    height: 30px;
+    width: 30px;
+}
+
+.navbar-brand{
+    color: #38bdf8 ;
+}
+
+.btn-nav{
+    background-color:  #38bdf8 ;
+    border-radius: 5px;
+    color: white !important;
+    font-weight: bold;
+}
+
+.navbar{
+    display: flex;
+    align-items: center;
+}
+
+.input-signup{
+    font-size: 22px;
+}
+
