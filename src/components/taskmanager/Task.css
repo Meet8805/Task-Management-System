@@ -15,6 +15,9 @@ textarea {
   resize: none;
 }
 
+textarea{
+  display: none;
+}
 input::placeholder,
 textarea::placeholder {
   color: #999;
